@@ -14,3 +14,5 @@ const Avatar: React.FC<Props> = ({ img, alt }) => {
     </div>
   );
 };
+
+export default Avatar;
